@@ -23,3 +23,7 @@ Even though VST is mainly used in Windows, there are wrapper to run it on Linux.
 ## Keyword Extractor
 Estimate main keywords from document and recommend them.
 
+## Prime Number Predictor
+Can prime numbers be predicted?  
+Can distinct function be made with learning huge number of them?  
+

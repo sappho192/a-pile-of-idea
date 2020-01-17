@@ -13,3 +13,7 @@ It will be possible that program gives user recommended message for current comm
 ## SSH-based BBS(Forum) Engine
 Everything converges on web service but there are people who still likes to do his job in terminal. BBS service over Telnet seems to be sort of lost technology in nowadays, so I want to make with my hand.
 
+## Library as a RSS
+Thesis database like IEEE Xplore, RISS has an API to search specific paper.  
+It would be nice if there's RSS service which shows recent set of theses filtered with my area of interest or keywords.  
+

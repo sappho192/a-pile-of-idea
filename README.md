@@ -17,3 +17,6 @@ Everything converges on web service but there are people who still likes to do h
 Thesis database like IEEE Xplore, RISS has an API to search specific paper.  
 It would be nice if there's RSS service which shows recent set of theses filtered with my area of interest or keywords.  
 
+## Tiny hardware VST
+Even though VST is mainly used in Windows, there are wrapper to run it on Linux. How about making palm-sized hardware instrument/effect based on VST? If it makes sense, midi keyboard also can be used in outside!
+

@@ -7,3 +7,6 @@ Each thought has own directory and any referrable information will be gathered t
 
 # Table Of Contents
 
+## Git Commit Message Generator
+It will be possible that program gives user recommended message for current commit as a hint by inspecting changed program codes.
+

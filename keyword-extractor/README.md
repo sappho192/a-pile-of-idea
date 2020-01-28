@@ -1,2 +1,2 @@
 # Keyword Extractor
-Estimate main keywords from document and recommend them.  
+Estimate the main keywords from the document and recommend them.  
